@@ -1,7 +1,8 @@
-def area(a, b, c): 
-    # Using Heron's formula
+def area(a, b, c):
+    '''Принимает три стороны треугольника a, b, c, возвращает площадь по формуле Герона'''
     s = (a + b + c) / 2
     return (s * (s - a) * (s - b) * (s - c)) ** 0.5
 
-def perimeter(a, b, c): 
+def perimeter(a, b, c):
+    '''Принимает три стороны треугольника a, b, c, возвращает периметр'''
     return a + b + c
