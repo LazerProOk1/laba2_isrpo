@@ -60,3 +60,16 @@
 >>> perimeter(3, 4, 5)
 12
 ```
+
+
+## История изменений
+| Хеш | Сообщение |
+|---|---|
+| 8ba9aeb | L-03: Circle and square added |
+| d078c8d | L-03: Docs added |
+| 104b56c | Add rectangle.py with area and perimeter formulas |
+| 00ace11 | Add triangle.py with area and perimeter formulas and fix rectangle perimeter formula |
+| f7e9f96 | fix formulas in triangle.py |
+| c40a725 | add .gitignore |
+| 95444de | add documentation |
+| 29c1c23 | add comments into python files |
